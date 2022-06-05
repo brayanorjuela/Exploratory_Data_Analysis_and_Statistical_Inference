@@ -1,4 +1,4 @@
-# Exploratoty Analyisis and Statistical Inference
+# Exploratory Analysis and Statistical Inference
 
 Project from DataCamp in which the skills needed to perform a visual and quantitative exploration analysis to then use statistical inference are put to the test.
 
