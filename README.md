@@ -1,1 +1,1 @@
-# Exploratoty_Analyisis_and_Statistical_Inference
+# Exploratoty Analyisis and Statistical Inference
